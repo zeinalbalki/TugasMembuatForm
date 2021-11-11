@@ -1,0 +1,11 @@
+.formulir {
+  box-shadow: 0.1px 2px 10px 0px #888888;
+  padding: 20px 20px;
+  width: 280px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn {
+  width: 100%;
+}
